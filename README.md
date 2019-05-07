@@ -8,8 +8,9 @@ Counter App
 
 ## Overview
 
-As a user, I want to click on the + sign to increment the number displayed
-As a user, I want to click on the - sign to decrement the number displayed
+As a user, I want to click on the + sign to increment the number displayed.
+
+As a user, I want to click on the - sign to decrement the number displayed.
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
